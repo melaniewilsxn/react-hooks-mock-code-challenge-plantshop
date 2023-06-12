@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cactus",
+      "image": "https://www.thespruce.com/thmb/JO8-OLjyLu_gK3LO8tTOiLj0qmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/angel-wings-cactus-ab159de1fa074df592d01d4d6799d7c9.jpg",
+      "price": "13.00",
+      "id": 8
     }
   ]
 }
